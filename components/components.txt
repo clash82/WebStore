@@ -1,0 +1,2 @@
+Header file compilation requires upx.exe in components directory.
+UPX packer can be downloaded from http://upx.sourceforge.net

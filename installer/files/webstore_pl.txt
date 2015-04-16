@@ -1,0 +1,22 @@
+Web Store 2.3.0.0
+(c) 2002-2015 Rafa³ Toborek
+http://toborek.info
+http://github.com/clash82/WebStore
+
+1. Czym jest pakiet Web Store?
+
+Web Store umo¿liwia tworzenie samowykonywalnych przegl¹darek stron HTML. Program zosta³ napisany na potrzeby tworzenia prostych e-booków dla systemów Windows. Kod Ÿród³owy nag³ówka zosta³ stworzony na podstawie programu Html2Exe autorstwa Krzysztofa Przyby³y. Aplikacja wykorzystuje komponent HtmlLite autorstwa L. Davida Baldwina. Aby zmniejszyæ wielkoœæ pliku wykonywalnego wykorzystany zosta³ program UPX autorstwa Markusa F.X.J. Oberhumera i Laszlo Molnara. Podczas pracy kreatora wykorzystywana jest biblioteka delzip190.dll autorstwa Russella Petersa, która dostarczana jest razem z programem.
+
+Prêdkoœæ dzia³ania oraz wydajnoœæ kontenera uzale¿niona jest od iloœci wolnej pamiêci RAM w komputerze. Program nie dodaje ¿adnych wpisów do rejestru systemowego, ani nie tworzy ¿adnych dodatkowych plików na dysku twardym.
+
+2. Licencja.
+
+Pakiet Web Store rozprowadzany jest na zasadach licencji GPLv2, której treœæ zawarta zosta³a razem z programem.
+
+3. Krotka instrukcja obs³ugi.
+
+Pakiet sk³ada siê z dwóch programów: kreatora kontenerów oraz nag³ówka przegl¹darki. Aby wygenerowaæ nowy kontener nale¿y uruchomiæ kreatora, a nastêpnie postêpowaæ zgodnie z instrukcjami zawartymi na ekranie. Po przeprowadzeniu wszystkich niezbêdnych kroków zostanie wygenerowany nowy kontener (program zawieraj¹cy przegl¹darkê oraz skompresowane w formacie ZIP strony HTML). Do³¹czona przegl¹darka obs³uguje standard jêzyka HTML 3.2 (bez ramek), a tak¿e obrazy w formacie JPEG, GIF oraz BMP. Do uruchomienia kontenera nie s¹ wymagane dodatkowe biblioteki.
+
+4. Kontakt z autorem oraz inne uwagi.
+
+W razie pytañ lub w¹tpliwoœci proszê siê ze mn¹ skontaktowaæ za pomoc¹ formularza kontaktowego umieszczonego na stronie http://toborek.info/kontakt/

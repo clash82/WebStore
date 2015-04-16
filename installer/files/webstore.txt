@@ -1,0 +1,17 @@
+Web Store 2.3.0.0
+(c) 2002-2015 Rafa³ Toborek
+http://toborek.info
+http://github.com/clash82/WebStore
+
+1. What is Web Store?
+
+Web Store is an application which allows you to easily create an HTML containers. Such packages contains compressed web pages and a simple browser. Application works on any Windows version (Administrator rights are not required).
+
+2. License.
+
+Application is published under GPLv2 license included with this package.
+
+3. Contact with author and contributing.
+
+All project contributions are welcome :-)
+In case of any questions, please contact me on GitHub (account clash82) or by e-mail using contact form placed on my web page: http://toborek.info/kontakt/

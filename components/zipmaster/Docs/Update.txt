@@ -1,0 +1,11 @@
+Recent changes
+1.9.0.98
+Removed AddOption AddNoSeparateDirs - this is replaced by new AddEmptyDirs which is the same as AddSeparateDirs in previous versions.
+Improved the wild filename match function
+1.9.0.97
+added the ability to skip adding files that change size or generate read errors - these are reported by the new SkipTypes stReadError, stSizeChange
+1.9.0.94
+Updated CopyZippedFiles to send messages etc from the source component.
+
+
+       
