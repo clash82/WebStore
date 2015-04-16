@@ -1,0 +1,47 @@
+Historia wersji / changelog only in Polish:
+
+2.3.0.0:
+ - pierwsza publiczna wersja Ÿróde³ programu,
+ - interfejs programu zosta³ przepisany na jêzyk angielski,
+ - poprawki kosmetyczne,
+ - poprawiony skrypt instalatora umo¿liwiaj¹cy wiêksze mo¿liwoœci instalacji oraz obs³uguj¹cy Unicode.
+
+2.2.1.0:
+ - aktualizacja na potrzeby nowej strony internetowej.
+
+2.2.0.0:
+ - projekt zosta³ przepisany na potrzeby œrodowiska Delphi 7,
+ - zaktualizowano komponent HtmlView do najnowszej wersji (7.71),
+ - zaktualizowano bibliotekê ZipMaster do najnowszej wersji (1.9.0.92),
+ - nag³ówek zosta³ spakowany przy u¿yciu najnowszej wersji UPX-a (3.05),
+ - poprawiono kilka b³êdów zarówno w kreatorze jak i w nag³ówku oraz przepisano czêœæ funkcji na potrzeby Delphi 7,
+ - zmieniono ikonê g³ówn¹ nag³ówka, a tak¿e zaktualizowano informacje o programie,
+ - niestety ze wzglêdu na zmianê œrodowiska oraz najnowsz¹ wersjê komponentu HtmlLite plik nag³ówka zosta³ zwiêkszony z 227 KB do 413 KB,
+ - nazwa biblioteki zipdll.dll zosta³a zmieniona na delzip190.dll,
+ - pakiet jest ponownie rozpowszechniany za pomoc¹ instalatora (NSIS).
+
+2.1.1.0:
+ - zmieni³em adres strony internetowej programu.
+
+2.1.0.0:
+ - poprawki kosmetyczne Kreatora oraz nag³ówka,
+ - usuniêto przechowywanie ustawieñ w rejestrze systemu przez kontener (tym samym usun¹³em opcjê odinstalowania ustawieñ w oknie informacji o programie - opcja ta nie by³a za bardzo u¿yteczna, a powodowa³a jedynie dodatkowe zaœmiecanie rejestru systemowego),
+ - mniejszy o kilka KB plik nag³ówka, który zosta³ spakowany najnowsz¹ wersj¹ UPX'a.
+
+2.0.0.0:
+ - dodano przyciski nawigacyjne (Wstecz i Dalej),
+   NOTKA: przycisk Dalej nie dzia³a w przypadku odwo³añ do plików graficznych
+ - dodano mo¿liwoœæ zapisania strony do pliku lub skopiowania do schowka,
+ - dodano opcje zapamiêtywania ustawieñ okna przegl¹darki,
+   NOTKA: opcja domyœlnie jest wy³¹czona, mo¿na j¹ w³¹czyæ globalnie dla wszystkich kontenerów, w oknie Informacji o programie (informacje przechowywane s¹ w rejestrze, klucz HKCU\Software\Web Store)
+ - dodano opcjê ³adowania ostatnio ogl¹danej stronie przy uruchamianiu kontenera,
+ - poprawki w wygl¹dzie (w tym obs³uga wizualnych stylów z Windows XP, oraz nowe ikony),
+ - dodano mo¿liwoœæ zmiany szerokoœci listy,
+ - dodano opcjê wywo³ywania plików (jeœli nie istniej¹ w archiwum) lub adresów on-line,
+ - dodano mo¿liwoœæ otwierania strony w nowym oknie (opcja w menu kontekstowym po najechaniu kursorem na odsy³acz),
+ - dodano mo¿liwoœæ zapisania obrazu do pliku (wy³¹cznie w formacie Bitmapy) lub skopiowania do schowka,
+ - teraz program wyœwietla plik graficzny bezpoœrednio z odsy³acza (wczeœniej by³ rozpoznawany i wyœwietlany jako plik tekstowy),
+ - dodano nowego Kreatora, który teraz mo¿e tworzyæ od podstaw nowe kontenery (zawiera obs³ugê kompresji formatu ZIP),
+ - dodano klawisze skrótów do obs³ugi kontenerów,
+   NOTKA: informacje o klawiszach dostêpne s¹ po najechaniu kursorem na przycisk w oknie przegl¹darki
+ - ca³y pakiet jest teraz rozprowadzany przy pomocy Instalatora (NSIS).

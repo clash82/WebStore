@@ -1,0 +1,11 @@
+Web Store 2.3.0.0
+(c) 2002-2015 Rafał Toborek
+http://toborek.info
+http://github.com/clash82/WebStore
+
+Web Store is an application which allows you to easily create an HTML container. Such package contains compressed web pages in HTML format and a simple WWW browser. Application can be executed in any Windows version under user mode (Administrator rights are not required).
+
+Application is published under GPLv2 license included with this package.
+
+All project contributions are welcome :-)
+In case of any questions, please contact me on GitHub (account clash82) or by e-mail using contact form placed on my web page: http://toborek.info/kontakt/
