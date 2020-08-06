@@ -1,9 +1,9 @@
 Web Store 2.3.0.0
 =================
-(c) 2002-2015 [Rafał Toborek](http://toborek.info)
+(c) 2002-2015 [Rafał Toborek](https://toborek.info)
 
-Download latest compiled version at [author's home page](http://api.toborek.info/pobierz/wstore23.exe).
-Sources are available at [GitHub](http://github.com/clash82/WebStore).
+Download latest compiled version at [author's home page](https://api.toborek.info/download/wstore23.exe).
+Sources are available at [GitHub](https://github.com/clash82/WebStore).
 
 Web Store is an application which allows you to easily create an HTML containers. Such packages contains compressed web pages and a simple browser. Application works on any Windows version (Administrator rights are not required).
 
